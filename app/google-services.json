@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "29212050902",
+    "firebase_url": "https://boogy-730a0.firebaseio.com",
+    "project_id": "boogy-730a0",
+    "storage_bucket": "boogy-730a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29212050902:android:ec2a58eb45228b05",
+        "android_client_info": {
+          "package_name": "doc.wal.doct"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29212050902-3tefceclpps1hqapbf717hshh5fe3rp7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "doc.wal.doct",
+            "certificate_hash": "c932fb8e90e8c9143a0b1f23c8e790fe88353d3f"
+          }
+        },
+        {
+          "client_id": "29212050902-o154vm373p7011dbsiph8r4u67cae2ss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRX6Y9jnFcjYmAkzFr0KCFp9_CMfQyiBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29212050902-o154vm373p7011dbsiph8r4u67cae2ss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
